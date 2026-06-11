@@ -1,2 +1,4 @@
 # Quaternion-and-PGA-application-for-an-Agile-Eye
-I made this to test out some MCU friendly functions I wrote and see whether I could use PGA to have different arclength links on an agile eye
+
+
+This is basically a testground to see whether I could make things like quaternions a bit more MCU friendly using a mathematical trick I came up with. Also implemented some visualization and while doing it I realized I could make the links asymetrical which opened up some intetersting avenues. There is a much more detailed guide into how everything works in the pdf file 
